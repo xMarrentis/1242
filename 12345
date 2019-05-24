@@ -1,0 +1,100 @@
+2019-05-24T16: 07: 36 + 02: 00 TS | INFO | LicenseViewer | | Znaleziono buforowaną licencję dla wersji 5 i języka en
+2019-05-24T16: 07: 36 + 02: 00 TS | INFO | LicenseViewer | | Zobacz licencję: wersja = 5, język = en, wymagaj akceptacji = 1
+2019-05-24T16: 07: 36 + 02: 00 TS | INFO | Aktualizacja | | Sprawdź licencję: version = 5, min_version = 4, my_license_version = 5, my_license_min_version = 1
+2019-05-24T16: 07: 36 + 02: 00 TS | INFO | Aktualizacja | | Sprawdzanie aktualizacji ...
+2019-05-24T16: 07: 36 + 02: 00 TS | INFO | ClientUI | | Sprawdzanie aktualizacji
+2019-05-24T16: 07: 36 + 02: 00 TS | INFO | ClientUI | | Ostatnia aktualizacja sprawdzała: Di. 1 stycznia 00:00:01 2019
+2019-05-24T16: 07: 36 + 02: 00 TS | INFO | Zakładki | | Zbieranie zakładek automatycznego łączenia
+2019-05-24T16: 07: 36 + 02: 00 Nowy status połączenia 1; Błąd 0
+2019-05-24T16: 07: 36 + 02: 00 TS | INFO | ClientUI | 1 | Status połączenia: Łączenie
+2019-05-24T16: 07: 36 + 02: 00 TS | INFO | PreProSpeex | 1 | Speex wersja: 1.2rc1
+2019-05-24T16: 07: 36 + 02: 00 TS | INFO | ClientUI | 1 | Połączenie inicjujące: 104.28.8.11:41144
+2019-05-24T16: 07: 36 + 02: 00 TS | INFO | ClientUI | 1 | Połącz się z serwerem: 104.28.8.11
+2019-05-24T16: 07: 36 + 02: 00 TS | INFO | ClientUI | | ts3server: 104.28.8.11?port=41144&nickname=Bot%20Niemcy&password=&channel=&channelpassword=
+2019-05-24T16: 07: 35 + 02: 00 TS | INFO | ClientUI | | Korzystanie z lokalizacji konfiguracji: /opt/sinusbot/data/ts3/886b5d75-d2b5-4e64-8ca8-bbb545022255/03ab478b-6c83-416b-a2ca-cf2ec6af0c9a/settings.db
+2019-05-24T16: 07: 35 + 02: 00 TS | INFO | ClientUI | | Wersja Qt: 5.6.1
+2019-05-24T16: 07: 35 + 02: 00 TS | INFO | ClientUI | | Nie można zainicjować silnika tekstu na mowę
+2019-05-24T16: 07: 35 + 02: 00 TS | DEVELOP | ClientUI | | Powiadomienia init: Ścieżka Soundpack: / opt / sinusbot / TeamSpeak3-Client-linux_amd64 / sound / nosounds
+2019-05-24T16: 07: 35 + 02: 00 TS | INFO | | | *** Czas [INIT]: 225
+2019-05-24T16: 07: 35 + 02: 00 TS | INFO | | | *** Time [MAINWINDOW]: 224
+2019-05-24T16: 07: 35 + 02: 00 TS | INFO | Wtyczki | | Ładowanie wtyczki: libsoundbot_plugin.so
+2019-05-24T16: 07: 35 + 02: 00 TS | INFO | | | pomyślnie pobrana lista odwołania dla księgowości
+2019-05-24T16: 07: 35 + 02: 00 TS | INFO | | | pomyślnie pobrana lista odwołania dla identyfikatora myteamspeak
+2019-05-24T16: 07: 35 + 02: 00 TS | BŁĄD | Zapytanie | | bind nie powiódł się na 127.0.0.1:25639
+2019-05-24T16: 07: 35 + 02: 00 TS | INFO | Wtyczki | | Ładowanie wtyczki: libclientquery_plugin_linux_amd64.so
+2019-05-24T16: 07: 35 + 02: 00 TS | INFO | Addons | | Sprawdzanie aktualizacji dodatków ...
+2019-05-24T16: 07: 35 + 02: 00 TS | BŁĄD | RevocationListCache | | Nie można zaimportować listy odwołania z pamięci podręcznej
+2019-05-24T16: 07: 35 + 02: 00 TS | INFO | ClientUI | | Nie można utworzyć kontekstu Open GL.
+2019-05-24T16: 07: 35 + 02: 00 TS | BŁĄD | SoundBckndIntf | | libpulse.so.0: nie można otworzyć pliku obiektu współdzielonego: brak takiego pliku lub katalogu
+2019-05-24T16: 07: 35 + 02: 00 TS | INFO | | SystemInformation: Linux 4.9.0-9-amd64 # 1 SMP Debian 4.9.168-1 (2019-04-12) x86_64 Binary: 64bit
+2019-05-24T16: 07: 35 + 02: 00 TS | INFO | | | TeamSpeak 3 Klient 3.2.3 (2018-10-02 07:57:10)
+2019-05-24T16: 07: 34 + 02: 00 Początkowa instancja ts3server: //104.28.8.11? Port = 41144 & nick = Bot% 20Niemcy i hasło = & channel = & channelpassword =
+2019-05-24T16: 07: 34 + 02: 00 Nie można utworzyć powiadomień-Tabletable Powiadomienia już istnieją
+2019-05-24T16: 07: 34 + 02: 00 Nie można utworzyć WhisperReceive-Tabletable WhisperReceive już istnieje
+2019-05-24T16: 07: 34 + 02: 00 Nie można utworzyć czatu Tabletable Czat już istnieje
+2019-05-24T16: 07: 32 + 02: 00 BOT-CONFIG [admin] HOST PORT CHANPW CHAN ANNOUNCE OPIS ANNOUNCESTR TTSURL CC MODE OK
+2019-05-24T16: 07: 20 + 02: 00 TSClient zamknij.
+2019-05-24T16: 07: 20 + 02: 00 ZABIJ [admin] OK
+2019-05-24T16: 07: 19 + 02: 00 Nowy status połączenia 0; Błąd 0
+2019-05-24T16: 07: 19 + 02: 00 TS | INFO | ClientUI | 1 | Rozłączony lub zmuszony do opuszczenia, chcę autoreconnect = 0
+2019-05-24T16: 07: 19 + 02: 00 TS | INFO | ClientUI | 1 | Status połączenia: Rozłączony
+2019-05-24T16: 07: 15 + 02: 00 Nowy status połączenia 1; Błąd 0
+2019-05-24T16: 07: 15 + 02: 00 TS | INFO | ClientUI | 1 | Status połączenia: Łączenie
+2019-05-24T16: 07: 15 + 02: 00 TS | INFO | TSDNS | | Nie znaleziono TSDNS
+2019-05-24T16: 07: 15 + 02: 00 TS | INFO | TSDNS | | TSDNS zapytał bezskutecznie 51.75.36.115:41144
+2019-05-24T16: 07: 15 + 02: 00 TS | INFO | ClientUI | 1 | Połączenie inicjujące: 217.182.73.146:9987
+2019-05-24T16: 07: 15 + 02: 00 TS | INFO | ClientUI | 1 | Rozwiąż sukces: 217.182.73.146:9987
+2019-05-24T16: 07: 15 + 02: 00 TS | INFO | ClientUI | 1 | Wyszukiwanie zakończone: ip = 217.182.73.146 port = 9987 zapytanie = mineserwer.pl błąd = 0
+2019-05-24T16: 07: 15 + 02: 00 TS | INFO | TSDNS | | Udane rozstrzygnięcie DNS A / AAAA, „ts.zarabiam.com” = (h: 217.182.73.146 p: 0)
+2019-05-24T16: 07: 15 + 02: 00 TS | INFO | TSDNS | | Udane rozstrzygnięcie DNS SRV, „_ts3._udp.mineserwer.pl” = (h: ts.zarabiam.com p: 9987)
+2019-05-24T16: 07: 15 + 02: 00 TS | INFO | TSDNS | | Rozwiązanie DNS SRV nieudane, "_tsdns._tcp.mineserwer.pl" Serwer DNS zwrócił odpowiedź bez danych
+2019-05-24T16: 07: 15 + 02: 00 TS | INFO | TSDNS | | Rozwiązanie DNS A / AAAA dla możliwych TSDNS zakończone powodzeniem, "mineserwer.pl" = (h: 51.75.36.115 p: 0)
+2019-05-24T16: 07: 15 + 02: 00 TS | INFO | TSDNS | | Udane rozstrzygnięcie DNS A / AAAA, „mineserwer.pl” = (h: 51.75.36.115 p: 0)
+2019-05-24T16: 07: 15 + 02: 00 TS | INFO | ClientUI | 1 | Próba rozwiązania mineserwer.pl
+2019-05-24T16: 07: 15 + 02: 00 TS | INFO | ClientUI | 1 | Połącz się z serwerem: mineserwer.pl
+2019-05-24T16:07:15+02:00 TS |INFO |ClientUI |1 |Autoreconnecting
+2019-05-24T16: 07: 14 + 02: 00 TS | INFO | ClientUI | 1 | Nie można połączyć się z serwerem, chcesz autoreconnect = 1
+2019-05-24T16: 07: 14 + 02: 00 TS | INFO | ClientUI | 1 | Status połączenia: Rozłączony
+2019-05-24T16: 07: 14 + 02: 00 Nowy status połączenia 0; Błąd 1797
+2019-05-24T16: 07: 09 + 02: 00 Nowy status połączenia 1; Błąd 0
+2019-05-24T16: 07: 09 + 02: 00 TS | INFO | ClientUI | 1 | Status połączenia: Łączenie
+2019-05-24T16: 07: 09 + 02: 00 TS | INFO | TSDNS | | Nie znaleziono TSDNS
+2019-05-24T16: 07: 09 + 02: 00 TS | INFO | TSDNS | | TSDNS zapytał bezskutecznie 51.75.36.115:41144
+2019-05-24T16: 07: 09 + 02: 00 TS | INFO | ClientUI | 1 | Połączenie inicjujące: 217.182.73.146:9987
+2019-05-24T16: 07: 09 + 02: 00 TS | INFO | ClientUI | 1 | Rozwiąż sukces: 217.182.73.146:9987
+2019-05-24T16: 07: 09 + 02: 00 TS | INFO | ClientUI | 1 | Wyszukiwanie zakończone: IP = 217.182.73.146 port = 9987 zapytanie = mineserwer.pl błąd = 0
+2019-05-24T16: 07: 09 + 02: 00 TS | INFO | TSDNS | | Udane rozstrzygnięcie DNS A / AAAA, „ts.zarabiam.com” = (h: 217.182.73.146 p: 0)
+2019-05-24T16: 07: 09 + 02: 00 TS | INFO | TSDNS | | Udane rozstrzygnięcie DNS SRV, „_ts3._udp.mineserwer.pl” = (h: ts.zarabiam.com p: 9987)
+2019-05-24T16: 07: 09 + 02: 00 TS | INFO | TSDNS | | Rozwiązanie DNS A / AAAA dla możliwych TSDNS zakończone powodzeniem, "mineserwer.pl" = (h: 51.75.36.115 p: 0)
+2019-05-24T16: 07: 09 + 02: 00 TS | INFO | TSDNS | | Rozwiązanie DNS SRV nieudane, "_tsdns._tcp.mineserwer.pl" Serwer DNS zwrócił odpowiedź bez danych
+2019-05-24T16: 07: 09 + 02: 00 TS | INFO | TSDNS | | Udane rozstrzygnięcie DNS A / AAAA, „mineserwer.pl” = (h: 51.75.36.115 p: 0)
+2019-05-24T16: 07: 09 + 02: 00 TS | INFO | ClientUI | 1 | Próba rozwiązania mineserwer.pl
+2019-05-24T16: 07: 09 + 02: 00 TS | INFO | ClientUI | 1 | Połącz się z serwerem: mineserwer.pl
+2019-05-24T16:07:09+02:00 TS |INFO |ClientUI |1 |Autoreconnecting
+2019-05-24T16: 07: 08 + 02: 00 Nowy status połączenia 0; Błąd 1797
+2019-05-24T16: 07: 08 + 02: 00 TS | INFO | ClientUI | 1 | Nie można połączyć się z serwerem, chcesz autoreconnect = 1
+2019-05-24T16: 07: 08 + 02: 00 TS | INFO | ClientUI | 1 | Status połączenia: Rozłączony
+2019-05-24T16: 07: 03 + 02: 00 Nowy status połączenia 1; Błąd 0
+2019-05-24T16: 07: 03 + 02: 00 TS | INFO | ClientUI | 1 | Status połączenia: Łączenie
+2019-05-24T16: 07: 02 + 02: 00 TS | INFO | TSDNS | | Nie znaleziono TSDNS
+2019-05-24T16: 07: 02 + 02: 00 TS | INFO | TSDNS | | TSDNS zapytał bezskutecznie 51.75.36.115:41144
+2019-05-24T16: 07: 02 + 02: 00 TS | INFO | ClientUI | 1 | Połączenie inicjujące: 217.182.73.146:9987
+2019-05-24T16: 07: 02 + 02: 00 TS | INFO | ClientUI | 1 | Rozwiąż sukces: 217.182.73.146:9987
+2019-05-24T16: 07: 02 + 02: 00 TS | INFO | ClientUI | 1 | Wyszukiwanie zakończone: ip = 217.182.73.146 port = 9987 zapytanie = mineserwer.pl błąd = 0
+2019-05-24T16: 07: 02 + 02: 00 TS | INFO | TSDNS | | Udane rozstrzygnięcie DNS A / AAAA, „ts.zarabiam.com” = (h: 217.182.73.146 p: 0)
+2019-05-24T16: 07: 02 + 02: 00 TS | INFO | TSDNS | | Udane rozstrzygnięcie DNS SRV, „_ts3._udp.mineserwer.pl” = (h: ts.zarabiam.com p: 9987)
+2019-05-24T16: 07: 02 + 02: 00 TS | INFO | TSDNS | | Rozwiązanie DNS A / AAAA dla możliwych TSDNS zakończone powodzeniem, "mineserwer.pl" = (h: 51.75.36.115 p: 0)
+2019-05-24T16: 07: 02 + 02: 00 TS | INFO | TSDNS | | Rozwiązanie DNS SRV nieudane, "_tsdns._tcp.mineserwer.pl" Serwer DNS zwrócił odpowiedź bez danych
+2019-05-24T16: 07: 02 + 02: 00 TS | INFO | TSDNS | | Udane rozstrzygnięcie DNS A / AAAA, „mineserwer.pl” = (h: 51.75.36.115 p: 0)
+2019-05-24T16: 07: 02 + 02: 00 TS | INFO | ClientUI | 1 | Próba rozwiązania mineserwer.pl
+2019-05-24T16: 07: 02 + 02: 00 TS | INFO | ClientUI | 1 | Połącz się z serwerem: mineserwer.pl
+2019-05-24T16:07:02+02:00 TS |INFO |ClientUI |1 |Autoreconnecting
+2019-05-24T16: 07: 01 + 02: 00 Nowy status połączenia 0; Błąd 1797
+2019-05-24T16: 07: 01 + 02: 00 TS | INFO | ClientUI | 1 | Nie można połączyć się z serwerem, chcesz autoreconnect = 1
+2019-05-24T16: 07: 01 + 02: 00 TS | INFO | ClientUI | 1 | Status połączenia: Rozłączony
+2019-05-24T16: 06: 56 + 02: 00 Nowy status połączenia 1; Błąd 0
+2019-05-24T16: 06: 56 + 02: 00 TS | INFO | ClientUI | 1 | Status połączenia: Łączenie
+2019-05-24T16: 06: 56 + 02: 00 TS | INFO | TSDNS | | Nie znaleziono TSDNS
+2019-05-24T16: 06: 56 + 02: 00 TS | INFO | TSDNS | | TSDNS zapytał bezskutecznie 51.75.36.115:41144
+2019-05-24T16: 06: 56 + 02: 00 TS | INFO | ClientUI | 1 | Połączenie inicjujące: 217.182.73.146:9987
+2019-05-24T16: 06: 56 + 02: 00 TS | INFO | ClientUI | 1 | Rozwiąż sukces: 217.182.73.146:9987
